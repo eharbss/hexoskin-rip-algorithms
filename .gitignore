@@ -1,0 +1,13 @@
+# MATLAB
+*.asv
+*.mex*
+slprj/
+codegen/
+*.autosave
+
+# data
+*.mat
+*.fig
+
+# OS
+.DS_Store
